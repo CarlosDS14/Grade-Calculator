@@ -9,6 +9,3 @@ build/
 # Ignore python files except the main.py
 *.py
 !main.py
-
-# Extra
-*.md
