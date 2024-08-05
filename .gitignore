@@ -1,0 +1,14 @@
+# Ignore the GCRS directory
+Grade Calculator Re-Structured alfa/
+
+# Ignore pyinstaller files
+dist/
+build/
+*.spec
+
+# Ignore python files except the main.py
+*.py
+!main.py
+
+# Extra
+*.md
